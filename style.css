@@ -1,1 +1,7 @@
-где-то
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
