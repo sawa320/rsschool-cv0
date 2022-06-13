@@ -1,17 +1,17 @@
-# **Анна Савченко**
-## Контакты:
-### Электронная почта: sawa320@gmail.com
-### дискорд: sawa320#3664
-## Обо мне:
-### Я в декретном отпуске. Я хочу попробовать что-то новое.
-## Навыки и результаты
+# **Anna Savchenko**
+## Contacts:
+### Email: sawa320@gmail.com
+### discord: sawa320#3664
+## About me:
+### I'm on maternity leave. I want to try something new.
+## Skills and results
 ### CV
-## Примеры кода:
-### не знаю что тут написать
-## Опыт работы:
-### Без навыков и опыта.
-## Образование:
-### Приморский политехнический колледж, Бухгалтерский учет
-## Языки:
-### Русский (родной)
-### Английский (A1)
+## Code examples:
+### don't know what to write here
+## Work experience:
+### Without skills and experience.
+## Education:
+### Primorsky Polytechnic College, Accounting
+## Languages:
+### Russian (native)
+### English (A1)
